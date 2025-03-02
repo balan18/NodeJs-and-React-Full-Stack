@@ -83,7 +83,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-management-system.git
+   git clone https://github.com/balan18/NodeJs-and-React-Full-Stack.git
    cd sales-management-system
 
 2. Start the application using Docker Compose:
